@@ -57,13 +57,6 @@ I specialize in creating robust web applications using **Django** for secure bac
 
 ---
 
-### 📊 GitHub Stats
-
-![Kateryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katerynakulik&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katerynakulik&layout=compact&theme=radical)
-
----
-
 ### 📫 How to reach me:
 
 * **LinkedIn:** [www.linkedin.com/in/kateryna-kulik-a9a6356b)
